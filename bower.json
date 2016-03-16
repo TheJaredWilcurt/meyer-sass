@@ -1,0 +1,26 @@
+{
+  "name": "meyer-sass",
+  "version": "2.0.0",
+  "homepage": "https://github.com/TheJaredWilcurt/meyer-sass",
+  "authors": ["TheJaredWilcurt"],
+  "description": "Eric Meyer's CSS Resets in .sass format",
+  "main": "_meyer.sass",
+  "keywords": [
+    "eric meyer",
+    "meyer",
+    "resets",
+    "css",
+    "sass",
+    "scss",
+    "cross-browser",
+    "cross-compatibility"
+  ],
+  "license": "Public Domain",
+  "ignore": [
+    "**/.*",
+    ".sass-cache/",
+    "*.css.map",
+    "node_modules",
+    "bower_components"
+  ]
+}
