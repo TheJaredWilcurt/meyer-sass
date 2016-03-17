@@ -1,6 +1,6 @@
 {
   "name": "meyer-sass",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "homepage": "https://github.com/TheJaredWilcurt/meyer-sass",
   "authors": ["TheJaredWilcurt"],
   "description": "Eric Meyer's CSS Resets in .sass format",

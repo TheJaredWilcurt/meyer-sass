@@ -1,0 +1,34 @@
+{
+  "name": "meyer-sass",
+  "homepage": "https://github.com/TheJaredWilcurt/meyer-sass",
+  "version": "2.0.1",
+  "author": "The Jared Wilcurt",
+  "description": "Eric Meyer's CSS Resets in .sass format",
+  "keywords": [
+    "eric meyer",
+    "meyer",
+    "resets",
+    "css",
+    "sass",
+    "scss",
+    "cross-browser",
+    "cross-compatibility"
+  ],
+  "maintainers":[{
+    "name": "TheJaredWilcurt",
+    "email": "TheJaredWilcurt@users.noreply.github.com",
+    "web": "http://github.com/TheJaredWilcurt"
+  }],
+  "repository": [{
+    "type": "git",
+    "url": "git://github.com/TheJaredWilcurt/meyer-sass.git"
+  }],
+  "bugs": {
+    "url": "https://github.com/TheJaredWilcurt/meyer-sass/issues"
+  },
+  "license": "Public Domain",
+  "main": "_meyer.sass",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {}
+}

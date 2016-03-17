@@ -15,7 +15,7 @@ We keep the first two digits matching the latest Meyer Reset (`2.0`). The last o
 Code        | Version | Date
 :--         | :--     | :--
 Meyer Reset | v2.0    | 2011-01-26
-meyer-sass  | v2.0.0  | 2016-03-16
+meyer-sass  | v2.0.1  | 2016-03-17
 
 * * *
 
