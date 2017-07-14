@@ -33,11 +33,11 @@ meyer-sass  | v2.0.1  | 2016-03-17
 3. Then copy **one** of the following lines and paste it at **the top of** your main Sass/LESS/Stylus file
 
 ```
-@import "..\bower_components\meyer-sass\_meyer.sass";
-@import "..\bower_components\meyer-sass\_meyer-scss.scss";
-@import "..\bower_components\meyer-sass\_meyer.min.css";
-@import "..\bower_components\meyer-sass\_meyer.less";
-@import "..\bower_components\meyer-sass\_meyer.styl";
+@import "..\node_modules\meyer-sass\_meyer.sass";
+@import "..\node_modules\meyer-sass\_meyer-scss.scss";
+@import "..\node_modules\meyer-sass\_meyer.min.css";
+@import "..\node_modules\meyer-sass\_meyer.less";
+@import "..\node_modules\meyer-sass\_meyer.styl";
 ```
 
 #### Bower
