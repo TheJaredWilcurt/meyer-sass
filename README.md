@@ -30,7 +30,7 @@ meyer-sass  | v2.0.1  | 2016-03-17
 
 1. Download [Node.js](http://nodejs.org) and install it
 2. In your project folder run `npm install meyer-sass --save-dev`
-3. Then copy **one** of the following lines and paste it at **the top of** your main Sass/LESS/Stylus file
+3. Then copy **one** of the following lines and paste it at **the top of** your main Sass/Less/Stylus file
 
 ```
 @import "..\node_modules\meyer-sass\_meyer.sass";
@@ -45,7 +45,7 @@ meyer-sass  | v2.0.1  | 2016-03-17
 1. Download [Node.js](http://nodejs.org) and install it
 2. Run the command `npm install -g bower`
 3. In your project folder run `bower install meyer-sass --save-dev`
-4. Then copy **one** of the following lines and paste it at **the top of** your main Sass/LESS/Stylus file
+4. Then copy **one** of the following lines and paste it at **the top of** your main Sass/Less/Stylus file
 
 ```
 @import "..\bower_components\meyer-sass\_meyer.sass";
